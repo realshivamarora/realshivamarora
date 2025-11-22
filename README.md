@@ -14,7 +14,7 @@
 📱 Passionate about **Flutter**, **React**, **Node.js**, **Clean UI**, and **Full-Stack Development**  
 🌱 Currently learning **Clean Architecture**, **Bloc**, and **System Design**  
 💬 Ask me about **Flutter, Dart, React, Node.js, Firebase**  
-📫 Reach me at: **shivamarora.lpu@gmail.com**
+📫 Reach me at: **shivam.arora.contact@gmail.com**
 
 ---
 
