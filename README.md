@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://github.com/realshivamarora" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/realshivamarora" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shivamarora.lpu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:shivam.arora.contact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -94,11 +94,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=realshivamarora&theme=react-dark" />
 </p>
-
----
-
-## ☕ Support My Work  
-<p><a href="https://www.buymeacoffee.com/realshivamarora"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="45" width="170" alt="buymeacoffee" /></a></p>
 
 ---
 
