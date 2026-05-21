@@ -184,7 +184,7 @@ class ShivamArora {
 
 <div align="center">
 
-<img src="https://github-readme-3d-contrib.vercel.app/profile-3d-contrib/profile-customize/realshivamarora/profile-customize.svg" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/realshivamarora/realshivamarora/output/profile-3d-contrib/realshivamarora.svg" />
 
 > ℹ️ *To regenerate this 3D graph in your own repo, add the [GitHub 3D Contrib Action](https://github.com/yoshi389111/github-profile-3d-contrib) to your profile repo's workflow.*
 
@@ -268,9 +268,9 @@ class ShivamArora {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realshivamarora/realshivamarora/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realshivamarora/realshivamarora/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/realshivamarora/realshivamarora/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realshivamarora/realshivamarora/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realshivamarora/realshivamarora/output/dist/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/realshivamarora/realshivamarora/output/dist/github-snake.svg" />
 </picture>
 
 > 🔧 *To activate the snake, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo workflow.*
